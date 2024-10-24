@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tebarek94/firstapp.git"
+  },
+  "author": "Tebarek abas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tebarek94/firstapp/issues"
+  },
+  "homepage": "https://github.com/tebarek94/firstapp#readme",
+  "description": "This is a first app that connect to the backend",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.7"
+  }
+}
